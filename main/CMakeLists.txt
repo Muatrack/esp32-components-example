@@ -1,6 +1,7 @@
 idf_component_register(
-                    SRC_DIRS    "./"
-                    INCLUDE_DIRS ".")
+                    SRCS    "main.c"
+                    INCLUDE_DIRS ""
+                    )
 
 # set(GWINFO "${CMAKE_CURRENT_SOURCE_DIR}/../gwinfo")
 # if(EXISTS ${WEB_SRC_DIR}/dist)
