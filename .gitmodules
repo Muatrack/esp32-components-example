@@ -2,3 +2,6 @@
 	path = components/elc_modem_v2
 	url = https://codeup.aliyun.com/66541ffb2fb15289e0e9ea90/componets/networks/modem.git
 	branch = master
+[submodule "components/network_lte_v2"]
+	path = components/network_lte_v2
+	url = git@github.com:Muatrack/esp32-components-network.git
